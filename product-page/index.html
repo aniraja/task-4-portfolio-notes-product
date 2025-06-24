@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Listing – Anirudha</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🛍️ Product Listing</h1>
+    <p>Browse products by category and sort by price or name.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <select id="filter" onchange="filterProducts()">
+        <option value="all">All Categories</option>
+        <option value="tech">Tech</option>
+        <option value="clothing">Clothing</option>
+      </select>
+
+      <select id="sort" onchange="sortProducts()">
+        <option value="name">Sort by Name</option>
+        <option value="price">Sort by Price</option>
+      </select>
+    </div>
+
+    <div id="productList" class="product-grid"></div>
+  </main>
+
+  <footer>© 2025 Anirudha Hensh</footer>
+  <script src="script.js"></script>
+</body>
+</html>
