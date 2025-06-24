@@ -63,7 +63,7 @@ E-commerce-like UI with:
 ## 🖥️ Screenshots
 
 | Portfolio | Notes App | Product Page |
-|----------|-----------|---------------|
+|----------------|---------------------|-----------------------|
 | *(https://github.com/aniraja/task-4-portfolio-notes-product/blob/main/portfolio/ApexPlanet_task4.1.jpg)* || *(https://github.com/aniraja/task-4-portfolio-notes-product/blob/main/notes-app/ApexPlanet_task4.2.jpg)* || *(https://github.com/aniraja/task-4-portfolio-notes-product/blob/main/product-page/ApexPlanet_task4.3.jpg)* |
 
 ---
